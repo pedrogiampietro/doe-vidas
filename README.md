@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./web/assets/images/logo.png" width="250px" /><br>
+  <img src="./server/public/logo.png" width="250px" /><br>
   Toda doação é importante!
 </h2>
 <p align="center">
